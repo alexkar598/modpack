@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Tech Haven Official",
+      "name" : "TechHaven",
+      "version" : "TechHaven 4",
+      "location" : "techhaven.json",
+      "priority" : 0
+    }
+  ]
+}

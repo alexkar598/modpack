@@ -1,0 +1,2 @@
+recipes.remove(<pneumaticcraft:elevator_frame>);
+recipes.remove(<pneumaticcraft:elevator_base>);
